@@ -1,12 +1,3 @@
 body{
-    background: #ffffff;
+    background: #BDBDBD;
 }
-
-.hero-section {
-    background-image: url('https://orangepassport.com/wp-content/uploads/2024/03/dumbo-park-downtown.jpg');
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    min-height: 60vh;
-  }
