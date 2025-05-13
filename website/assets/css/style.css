@@ -10,3 +10,27 @@ body{
     align-items: center;
     min-height: 60vh;
   }
+
+.section-container {
+            padding: 50px 0;
+        }
+        .section-container:nth-child(even) {
+            background-color: white;
+        }
+        .circle-img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        
+        .p {
+            font-weight: 400;
+            color: black;
+        }
+        .black{
+            color: black
+        }
+        .grey{
+            color:grey
+        }
